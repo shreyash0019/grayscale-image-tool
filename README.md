@@ -58,6 +58,4 @@ python bw_convert.py sample_image.png
 - The output grayscale image is saved with the prefix `bw_` added to the original file name.
 - Ensure the image file is in the same directory as the script or provide the full path to the image file.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
