@@ -57,5 +57,3 @@ python bw_convert.py sample_image.png
 - The script takes the image file name as a command-line argument.
 - The output grayscale image is saved with the prefix `bw_` added to the original file name.
 - Ensure the image file is in the same directory as the script or provide the full path to the image file.
-
-
